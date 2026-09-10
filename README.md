@@ -15,18 +15,16 @@ databases, testing, and software engineering best practices.
 
 ## 👨‍💻 About Me
 
-I like understanding *why* something works, not just making it work.
-That mindset shaped how I approach backend development — breaking
-problems down, testing assumptions, and reading the error before
-guessing at a fix.
+I'm finishing my Computer Science degree, and for the next year my
+focus is singular: land a backend role at a top-tier company. No
+side quests, no half-finished detours — just consistent, deliberate
+progress with Java and Spring Boot.
 
-Most of what I know comes from building things: small APIs, console
-apps, database-backed projects. Each one usually exposes a gap I
-didn't know I had, which is where the actual learning happens.
+I learn by building — taking on something slightly out of reach and
+letting the gaps in my understanding tell me what to study next.
+The projects in this repo are the record of that process.
 
-Right now I'm focused on closing those gaps — writing cleaner code,
-understanding what happens under the hood, and preparing to bring
-that mindset into a real engineering team.
+I don't think talent gets you there. Reps do.
 
 
 ## 🛠️ Tech Stack
@@ -122,9 +120,8 @@ as each project evolves.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricksaud" alt="GitHub Streak" />
-</p> 
-
+  <img src="https://streak-stats.demolab.com/?user=ricksaud" alt="GitHub Streak" />
+</p>
 ## 📫 Connect With Me
 
 <p align="left">
