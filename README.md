@@ -51,26 +51,18 @@ I learn primarily by building — implementing something slightly beyond my curr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 
-📚 Currently Learning
+## 📚 Currently Learning
 
-My current focus is progressing from solid Java fundamentals toward production-ready Spring applications:
+Currently focused on strengthening my **Java and Spring backend development** skills, with an emphasis on building complete REST APIs and understanding the technologies behind them.
 
-🌱 Spring Boot & REST APIs
-
-🗃️ Spring Data JPA & Hibernate
-
-🐘 PostgreSQL & SQL
-
-🔎 JPQL, derived queries & data persistence
-
-🧪 Automated testing
-
-🔐 Spring Security
-
-🏗️ Software architecture & design principles
-
-📊 Data Structures & Algorithms
-
+- 🌱 **Spring Boot & REST APIs**
+- 🗃️ **Spring Data JPA & Hibernate**
+- 🐘 **PostgreSQL & SQL**
+- 🔎 **JPQL & database querying**
+- 🧪 **Testing with JUnit & Mockito**
+- 🔐 **Spring Security**
+- 🏗️ **Software architecture & clean code**
+- 📊 **Data Structures & Algorithms**
 
 
 ## 📊 GitHub Activity
