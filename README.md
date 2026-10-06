@@ -1,30 +1,23 @@
+Hi, I'm Ricardo Souto
 
-# 👋 Hi, I'm Ricardo Souto
+Java Backend Developer
 
-## ☕ Java Backend Developer
+Java • Spring Boot • Spring Data JPA • REST APIs • PostgreSQL • Git
 
-**Java • Spring Boot • REST APIs • SQL • Docker • Git**
+BSc (Hons) Computing graduate from Dublin Business School, focused on backend development with Java and Spring Boot.
 
-Recently graduated in Computer Science and transitioning into backend
-development with Java and Spring Boot. I enjoy turning problems into
-clean, working APIs — and I'm currently deepening my skills in
-databases, testing, and software engineering best practices.
+I'm currently deepening my understanding of the Spring ecosystem while building REST APIs, working with relational databases, and strengthening the software engineering fundamentals behind them.
 
-🎯 Actively looking for my first opportunity as a Junior Backend Developer.
+Open to Junior Java / Backend Developer opportunities.
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm finishing my Computer Science degree, and for the next year my
-focus is singular: land a backend role at a top-tier company. No
-side quests, no half-finished detours — just consistent, deliberate
-progress with Java and Spring Boot.
+My focus is straightforward: becoming a strong Java backend engineer.
 
-I learn by building — taking on something slightly out of reach and
-letting the gaps in my understanding tell me what to study next.
-The projects in this repo are the record of that process.
+I'm building a solid foundation in Java, object-oriented programming, databases, HTTP, REST, persistence, testing, and the Spring ecosystem rather than jumping between technologies.
 
-I don't think talent gets you there. Reps do.
+I learn primarily by building — implementing something slightly beyond my current knowledge, finding the gaps, and studying what I need to solve them.
 
 
 ## 🛠️ Tech Stack
@@ -55,61 +48,25 @@ I don't think talent gets you there. Reps do.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 
-## 📚 Currently Learning
+📚 Currently Learning
 
-I'm continuously expanding my backend engineering skills through
-hands-on projects and structured study.
+My current focus is progressing from solid Java fundamentals toward production-ready Spring applications:
 
-### Current Focus
-- 🏗️ Software architecture & design patterns
-- ⚙️ Microservices & messaging (Kafka, RabbitMQ)
-- ☁️ Cloud fundamentals (AWS)
-- 🧪 Deepening testing practices (integration tests, TDD)
+🌱 Spring Boot & REST APIs
 
+🗃️ Spring Data JPA & Hibernate
 
-## 🚀 Featured Projects
+🐘 PostgreSQL & SQL
 
-Three long-term projects, each pushing further into backend
-engineering — from a single well-tested service to a distributed,
-cloud-deployed system.
+🔎 JPQL, derived queries & data persistence
 
----
+🧪 Automated testing
 
-### 🏦 Financial Management Platform
-`Java` `Spring Boot` `PostgreSQL` `Spring Security` `Docker`
+🔐 Spring Security
 
-A backend for managing accounts and transactions, with a focus on
-authentication, authorization, and getting the data model right
-before anything else.
+🏗️ Software architecture & design principles
 
-**Status:** 🟡 In development &nbsp;|&nbsp; [Repo](#)
-
----
-
-### 📦 E-Commerce Platform
-`Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `Kafka`
-
-A production-style e-commerce backend — orders, inventory, and
-payments talking to each other asynchronously, with caching and
-automated tests to keep it honest.
-
-**Status:** ⚪ Planned &nbsp;|&nbsp; [Repo](#)
-
----
-
-### 🌐 Distributed Services Platform
-`Java` `Spring Boot` `Microservices` `Kafka` `Docker` `AWS`
-
-Splitting a backend into services that actually have to talk to
-each other — messaging, resilience, observability, and deploying
-the whole thing to the cloud.
-
-**Status:** ⚪ Planned &nbsp;|&nbsp; [Repo](#)
-
----
-
-📝 Architecture decisions, challenges, and write-ups will be added
-as each project evolves.
+📊 Data Structures & Algorithms
 
 
 
