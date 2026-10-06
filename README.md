@@ -1,23 +1,28 @@
-👋 Hi, I'm Ricardo Souto
+# 👋 Hi, I'm Ricardo Souto
 
-☕ Java Backend Developer
+## ☕ Java Backend Developer
 
-Java • Spring Boot • Spring Data JPA • REST APIs • PostgreSQL • Git
+**Java • Spring Boot • Spring Data JPA • REST APIs • PostgreSQL • Git**
 
-BSc (Hons) Computing graduate from Dublin Business School, focused on backend development with Java and Spring Boot.
+BSc (Hons) Computing graduate from **Dublin Business School**, focused on backend development with **Java and Spring Boot**.
 
-I'm currently deepening my understanding of the Spring ecosystem while building REST APIs, working with relational databases, and strengthening the software engineering fundamentals behind them.
+I'm currently deepening my understanding of the **Spring ecosystem** while building REST APIs, working with relational databases, and strengthening the software engineering fundamentals behind them.
 
-🎯 Open to Junior Java / Backend Developer opportunities.
+> 🎯 **Open to Junior Java / Backend Developer opportunities.**
 
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-My focus is straightforward: becoming a strong Java backend engineer.
+My focus is straightforward: **becoming a strong Java backend engineer.**
 
-I'm building a solid foundation in Java, object-oriented programming, databases, HTTP, REST, persistence, testing, and the Spring ecosystem rather than jumping between technologies.
+I'm building a solid foundation in **Java, object-oriented programming, databases, HTTP, REST, persistence, testing, and the Spring ecosystem** rather than jumping between technologies.
 
 I learn primarily by building — implementing something slightly beyond my current knowledge, finding the gaps, and studying what I need to solve them.
+
+---
+
+## 🛠️ Tech Stack
 
 
 ## 🛠️ Tech Stack
