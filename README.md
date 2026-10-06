@@ -10,7 +10,7 @@ I'm currently deepening my understanding of the **Spring ecosystem** while build
 
 > 🎯 **Open to Junior Java / Backend Developer opportunities.**
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,7 @@ I'm building a solid foundation in **Java, object-oriented programming, database
 
 I learn primarily by building — implementing something slightly beyond my current knowledge, finding the gaps, and studying what I need to solve them.
 
----
+
 
 
 ## 🛠️ Tech Stack
