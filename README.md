@@ -22,8 +22,6 @@ I learn primarily by building — implementing something slightly beyond my curr
 
 ---
 
-## 🛠️ Tech Stack
-
 
 ## 🛠️ Tech Stack
 
